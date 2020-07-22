@@ -1,8 +1,8 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$config['base_url'] = 'http://127.0.0.1:8080/';
-$config['domainku'] = 'http://127.0.0.1:8080/';
+$config['base_url'] = 'https://fbba2587ecb1.ngrok.io/';
+$config['domainku'] = 'https://fbba2587ecb1.ngrok.io/';
 $config['iconku'] = $config['base_url']."assets/images/favico.ico";
 $config['titleku'] = 'apa Indonesia';
 $config['web_description'] = '';
@@ -38,7 +38,7 @@ $config['mandatory_note_quote'] = "<div align='left' style='padding:0px 20px 0px
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://127.0.0.1:8080/';
+$config['base_url'] = 'https://fbba2587ecb1.ngrok.io/';
 
 /*
 |--------------------------------------------------------------------------
