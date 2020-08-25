@@ -101,7 +101,7 @@
                     <div>
                         <a href="<?= base_url('oauth/google') ?>"><img src="<?php echo base_url(); ?>assets/images/sosmed_google.png" alt="APA Google" title="APA Google" width="25"></a>
                         <a href="<?= base_url('oauth/facebook') ?>" style="margin-left:20px;"><img src="<?php echo base_url(); ?>assets/images/sosmed_fb.png" alt="APA Google" title="APA Facebook" width="25"></a>
-                        <span style="margin-left:20px;"><img src="<?php echo base_url(); ?>assets/images/sosmed_ig.png" alt="APA Google" title="APA Instagram" width="25"></span>
+                        <a href="<?= base_url('oauth/instagram') ?>" style="margin-left:20px;"><img src="<?php echo base_url(); ?>assets/images/sosmed_ig.png" alt="APA Google" title="APA Instagram" width="25"></a>
                     </div>
                 </div>
             </div>
